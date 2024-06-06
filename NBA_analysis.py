@@ -138,8 +138,7 @@ dpm.drop(columns='PLAYER_ID', inplace=True)  # Remove PLAYER_ID column bc it's p
 
 # Plotting
 fig = px.imshow(dpm.corr(numeric_only=True),
-                labels=dict(x="Categories(x)", y="Categories(y)", color="Correlation"),
-                color_continuous_scale=[[0, "red"], [0.5, "white"], [1, "blue"]])
+                labels=dict(x="Categories(x)", y="Categories(y)", color="Correlation"))
 fig.update_layout(title=f"Correlation Heatmap of All Stats ({data['Year'].iloc[0]} to {data['Year'].iloc[-1]} Seasons)")
 fig.show()
 
