@@ -1,0 +1,8 @@
+# NBA Data Scraper and Analyzer
+
+## Description
+This project is a Python-based tool to scrape, clean, and visualize NBA player 
+statistics. You can choose a range of seasons starting from 1951 to present. The tool 
+retrieves data from the NBA's official stats API, and generates interactive 
+visualizations to help understand trends and changes in the game over time.
+
