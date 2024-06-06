@@ -1,5 +1,5 @@
 # Shlok Yeolekar
-# NBA Analysis Through The Decade
+# NBA Analysis Through The Seasons
 # Completed: June 2, 2024
 
 import pandas as pd
