@@ -1,4 +1,6 @@
 # NBA Data Scraper and Analyzer
+##### Shlok Yeolekar
+##### June 2024
 
 ## Description
 This project is a Python-based tool to scrape, clean, and visualize NBA player statistics. You can choose a range 
@@ -16,9 +18,18 @@ interactive visualizations to help understand trends and changes in the game ove
 - Comparison of regular season and playoff performance
 
 ## Requirements
-Python with the following packages: 
+Python 3 with the following packages: 
 - pandas
 - requests
 - numpy
 - openpyxl
 - plotly
+
+## Screenshots
+![Heat Map](Screenshots/heatmap.png)
+![Minutes Played](Screenshots/minsplayed.png)
+![Stats per 48 Mins](Screenshots/48mins.png)
+![Stats per 100 Possessions](Screenshots/100poss.png)
+![Stats Regular Season vs. Playoffs](Screenshots/regularxplayoff.png)
+
+
