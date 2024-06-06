@@ -1,3 +1,7 @@
+# Shlok Yeolekar
+# NBA Analysis Through The Decade
+# Completed: June 2, 2024
+
 import pandas as pd
 import requests
 pd.set_option('display.max_columns', None)
