@@ -27,9 +27,13 @@ Python 3 with the following packages:
 
 ## Screenshots
 ![Heat Map](Screenshots/heatmap.png)
+___
 ![Minutes Played](Screenshots/minsplayed.png)
+___
 ![Stats per 48 Mins](Screenshots/48mins.png)
+___
 ![Stats per 100 Possessions](Screenshots/100poss.png)
+___
 ![Stats Regular Season vs. Playoffs](Screenshots/regularxplayoff.png)
 
 
